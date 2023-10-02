@@ -2,7 +2,7 @@ package ex04;
 
 import java.util.Scanner;
 
-public class fatorial {
+public class Fatorial {
     public static void main(String[] args) {
      Scanner scanner = new Scanner(System.in);
      int num;

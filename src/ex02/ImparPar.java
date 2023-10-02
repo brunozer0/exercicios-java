@@ -2,7 +2,7 @@ package ex02;
 
 import java.util.Scanner;
 
-public class imparPar {
+public class ImparPar {
     
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);

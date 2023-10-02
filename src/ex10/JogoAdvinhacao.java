@@ -3,7 +3,7 @@ package ex10;
 import java.util.Random;
 import java.util.Scanner;
 
-public class jogoAdvinhacao {
+public class JogoAdvinhacao {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();

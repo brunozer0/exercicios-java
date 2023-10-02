@@ -2,7 +2,7 @@ package ex05;
 
 import java.util.Scanner;
 
-public class contagem {
+public class Contagem {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int num;

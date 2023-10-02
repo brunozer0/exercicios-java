@@ -2,7 +2,7 @@ package ex01;
 
 import java.util.Scanner;
 
-public class somaDoisNum {
+public class SomaDoisNum {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     

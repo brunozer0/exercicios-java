@@ -1,7 +1,7 @@
 package ex06;
 
 
-public class mediaNumeros {
+public class MediaNumeros {
     public static void main(String[] args) {
         
         int [] numeros  = {50,60,80};

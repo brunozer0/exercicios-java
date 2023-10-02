@@ -2,7 +2,7 @@ package ex07;
 
 import java.util.Scanner;
 
-public class taboada {
+public class Taboada {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int num;
